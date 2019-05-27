@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "D:\\App\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "D:\\App\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Administrator\\Desktop\\Dò Line New\\Main\\Desktop\\Hex\\sketch\\Main.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
